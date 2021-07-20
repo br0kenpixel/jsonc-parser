@@ -1,0 +1,21 @@
+//This is an example file for JSONC parser
+{
+    "name": "Bob",
+    "age": 25,
+    "address": "123 Main St",
+
+    /*
+
+    Now let's write some more personal stuff...
+
+    */
+    "hobbys": [
+        //Bob's hobbys
+        "cycling", //What? Cycling is cool!
+        "spots" //Everyone loves sports (almost...)
+    ],
+    "stolen candys": null,
+
+    //Interesting...
+    "SSN": 11111111420111169 /* This is some very private information... :) */
+}
